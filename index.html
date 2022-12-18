@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta metacharset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GBooks</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css"
+    integrity="sha512-NmLkDIU1C/C88wi324HBc+S2kLhi08PN5GDeUVVVC/BVt/9Izdsc9SVeVfA1UZbY3sHUlDSyRXhCzHfr6hmPPw=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<header class="header">
+  <h1><img src="assets/img/book-logo.jpg" alt="logo da empresa"/><b>G</b>Books</b></h1>
+</header>
+
+<body>
+  <section class="banner"></section>
+  <nav class="wrap">
+    <ul class="nav">
+      <li><button class="btn btn-financas" href="#" id="btnFiltrarLivrosFinancas" value="financas">FINANÇAS</button></li>
+      <li><button class="btn btn-autoajuda" href="#" id="btnFiltrarLivrosAutoajuda" value="autoajuda">AUTOAJUDA</button></li>
+      <li><button class="btn btn-fantasia" href="#" id="btnFiltrarLivrosFantasia" value="fatasia">FANTASIA</button></li>
+      <li><button class="btn btn-romance" href="#" id="btnFiltrarLivrosRomance" value="romance">ROMANCE</button></li>
+      <li><button class="btn btn-neurociencia" href="#" id="btnFiltrarLivrosNeurociencia" value="neurociencia">NEUROCIENCIA</button></li>
+      <li><button class="btn btn-disponiveis" href="#" id="btnLivrosDisponiveis">DISPONÍVEIS</button></li>
+      <li><button class="btn btn-ordenacao" href="#" id="btnOrdenarPorPreco">POR PREÇO</button></li>
+    </ul>
+  </nav>
+  <section class="livros wrap" id="livros">
+
+    <!-- <div class="livro">
+      <img class="" src="" alt="" />
+      <h2 class="livro__titulo"></h2>
+      <p class="livro__descricao"></p>
+      <p class="livro__preco" id=""></p>
+      <div class="tags">
+        <span class="tag"></span>
+      </div>
+    </div> -->
+
+  </section>
+  <section id="valor_total_livros_disponiveis">
+    <div class="livros__disponiveis">
+      <p>Todos os livros disponíveis por R$ <span id="valor">299,00</span></p>
+    </div>
+  </section>
+
+  <footer class="rodape">
+    <p>Gbooks - Conhecimento é liberdade!</p>
+  </footer>
+  <script src="assets/js/main.js"></script>
+  <script src="assets/js/metodoForEach.js"></script>
+  <script src="assets/js/metodoMap.js"></script>
+  <script src="assets/js/metodoFilter.js"></script>
+</body>
+
+</html>

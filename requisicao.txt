@@ -1,0 +1,102 @@
+[
+    {
+        "titulo": "Do mil ao milhão",
+        "preco": 29.9,
+        "autor": "Thiago Nigro",
+        "imagem": "https://m.media-amazon.com/images/I/412y2rFbc7L.jpg",
+        "alt": "Capa do livro: Do mil ao milhão",
+        "quantidade": 50,
+        "categoria": "Finanças"
+},
+    {
+        "titulo": "O investidor inteligente",
+        "preco": 49.9,
+        "autor": "Benjamin Graham",
+        "imagem": "https://m.media-amazon.com/images/I/41BKXHTRddL.jpg",
+        "alt": "Capa do livro: O investidor inteligente",
+        "quantidade": 50,
+        "categoria": "Finanças"
+},    {
+        "titulo": "Segredos da mente milionária",
+        "preco": 24.9,
+        "autor": "T. Harv Eker",
+        "imagem": "https://m.media-amazon.com/images/I/51CHo2i0r+L._SY346_.jpg",
+        "alt": "Capa do livro: Segredos da mente milionária",
+        "quantidade": 50,
+        "categoria": "Finanças"
+},    {
+        "titulo": "O poder do hábito",
+        "preco": 29.9,
+        "autor": "Charles Duhigg",
+        "imagem": "https://m.media-amazon.com/images/I/51vJiEaw12L._SY346_.jpg",
+        "alt": "Capa do livro: O Poder do hábito",
+        "quantidade": 50,
+        "categoria": "Autoajuda"
+},    {
+        "titulo": "Esteja, viva, permaneça 100% presente",
+        "preco": 24.9,
+        "autor": "Joel Moraes",
+        "imagem": "https://m.media-amazon.com/images/I/411keSdb60L.jpg",
+        "alt": "Capa do livro: Esteja, viva, permaneça 100% presente",
+        "quantidade": 50,
+        "categoria": "Autoajuda"
+},    {
+        "titulo": "Como fazer amigos e influenciar pessoas",
+        "preco": 34.90,
+        "autor": "Dale Carnegie",
+        "imagem": "https://m.media-amazon.com/images/I/4145oBxyofL._SY346_.jpg",
+        "alt": "Capa do livro: Como fazer amigos e influenciar pessoas",
+        "quantidade": 50,
+        "categoria": "Autoajuda"
+},    {
+        "titulo": "Fogo & Sangue – Volume 1",
+        "preco": 54.4,
+        "autor": "George R. R. Martin",
+        "imagem": "https://m.media-amazon.com/images/I/51A19icLe6L._SY344_BO1,204,203,200_QL70_ML2_.jpg",
+        "alt": "Capa do livro: Fogo & Sangue – Volume 1",
+        "quantidade": 50,
+        "categoria": "Fantasia"
+},    {
+        "titulo": "Sherlock Holmes - Um estudo em vermelho",
+        "preco": 12.9,
+        "autor": " Arthur Conan Doyle",
+        "imagem": "https://m.media-amazon.com/images/I/41XDTiGcN9L._SY344_BO1,204,203,200_QL70_ML2_.jpg",
+        "alt": "Capa do livro: Do mil ao milhão",
+        "quantidade": 50,
+        "categoria": "Fantasia"
+},    {
+        "titulo": "A última livraria de Londres: Um romance sobre a Segunda Guerra Mundial",
+        "preco": 29.9,
+        "autor": "Madeline Martin ",
+        "imagem": "https://m.media-amazon.com/images/I/51rNMtS7i+L._SY344_BO1,204,203,200_.jpg",
+        "alt": "Capa do livro: A última livraria de Londres",
+        "quantidade": 50,
+        "categoria": "Romance"
+},    {
+        "titulo": "Amor em Manhattan: Para Nova York, com amor Livro 1",
+        "preco": 29.9,
+        "autor": "Sarah Morgan ",
+        "imagem": "https://m.media-amazon.com/images/I/41P54ESGgrL._SY344_BO1,204,203,200_QL70_ML2_.jpg",
+        "alt": "Capa do livro: Amor em Manhattan, livro 1",
+        "quantidade": 50,
+        "categoria": "Romance"
+},    {
+        "titulo": "Mindset: A nova psicologia do sucesso",
+        "preco": 29.9,
+        "autor": " Carol S. Dweck",
+        "imagem": "https://m.media-amazon.com/images/I/41suUFbw-eL._SX346_BO1,204,203,200_.jpg",
+        "alt": "Capa do livro: Mindset",
+        "quantidade": 50,
+        "categoria": "Neurociência"
+},    {
+        "titulo": "Neurociência para líderes: Como liderar pessoas e empresas",
+        "preco": 29.9,
+        "autor": " Nikolaos Dimitriadis ",
+        "imagem": "https://m.media-amazon.com/images/I/41WWzBa+3zL._SY344_BO1,204,203,200_.jpg",
+        "alt": "Capa do livro: Neurociência para líderes",
+        "quantidade": 50,
+        "categoria": "Neurociência"
+}
+
+
+]
