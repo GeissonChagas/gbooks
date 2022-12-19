@@ -5,3 +5,4 @@ function aplicarDesconto(livros) {
     })
     return livrosComDesconto
 }
+
