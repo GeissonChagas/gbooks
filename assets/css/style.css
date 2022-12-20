@@ -82,6 +82,7 @@ body {
   opacity: 0.3;
 }
 
+
 .livro__titulo {
   color: var(--text-title-color);
   font-weight: 700;
@@ -189,5 +190,9 @@ body {
   .livros__disponiveis{
     font-size: 12px;
   }
-  
+
+  .wrap, .nav{
+    width: 420px;
+  }
+
 }
