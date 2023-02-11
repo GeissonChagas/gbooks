@@ -1,5 +1,5 @@
 let livros = []
-const endpointDaAPI = 'https://geissonchagas.github.io/api-gbooks/api-gbooks.json'
+const endpointDaAPI = 'https://geissonchagas.github.io/Minhas-API-s/api-gbooks.json'
 getBuscarLivrosDaAPI()
 
 async function getBuscarLivrosDaAPI() {
